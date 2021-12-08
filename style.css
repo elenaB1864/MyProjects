@@ -1,0 +1,42 @@
+section {
+  font-family: "Montserrat", sans-serif;
+  background: linear-gradient(
+    109.6deg,
+    rgb(185, 212, 242) 11.2%,
+    rgb(244, 210, 226) 100.3%
+  );
+  padding: 20px;
+  margin: 60px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+
+.date {
+  margin-top: 30px;
+  margin-left: 130px;
+}
+.time {
+  margin-left: 130px;
+}
+.city {
+  font-size: 50px;
+  margin-left: 130px;
+}
+.description {
+  font-size: 25px;
+  margin-left: 130px;
+}
+.temperature {
+  font-size: 35px;
+  margin-left: 130px;
+}
+.hummidity {
+  margin-left: 180px;
+}
+.wind-speed {
+  margin-left: 180px;
+  margin-bottom: 30px;
+}
+p {
+  margin-left: 30px;
+}
